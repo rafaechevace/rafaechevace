@@ -56,7 +56,7 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 - Redes
 - Hardware y Arquitecturas de Computadores
 - Sistemas Distribuidos
-- Participación en conferencias como C1b3rwall desde 2022 en la Academia Nacional de Policía, Ávila.
+- Participación en congresos como C1b3rwall desde 2022 en la Academia Nacional de Policía, Ávila.
 
 ---
 

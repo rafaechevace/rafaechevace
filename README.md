@@ -14,15 +14,19 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 
 🔧 Habilidades que estoy aprendiendo:
 Habilidades
-🟦 Diseño y gestión de redes
-🟩 Desarrollo de software
+
+🟦 Diseño y gestión de redes     
+       🟩 Desarrollo de software
+
 🟨 Bases de datos
-🟪 Auditorías de seguridad
+       🟪 Auditorías de seguridad
+
 🟧 Programación:
   Java, C, Risc-V, Python, MatLab
-🟥 Análisis forense
+      🟥 Análisis forense
+
 🟫 Linux y arquitecturas de computadores
-🟠 Sistemas Operativos y programación concurrente
+    🟠 Sistemas Operativos y programación concurrente
 
 ---
 

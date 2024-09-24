@@ -46,7 +46,7 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 
 🌟 **Proyectos Destacados:**
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/rafaechevace/Visualizacion_Grupos_Investigacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/rafaechevace/Visualizacion_Grupos_Investigacion)
 
 #### 🎮 **Juego Sokoban IA (2024):**
 Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.

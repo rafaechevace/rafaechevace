@@ -73,7 +73,7 @@ Introduciendo una base de datos de investigadores, permite crear relaciones entr
 📫 **Contacto:**
 
 - Email: rafael.echevace@outlook.com
-- LinkedIn: @rafaechevace
+- <ahref="<https://www.linkedin.com/in/rafael-echevarr%C3%ADa-ace%C3%B1a>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>e
 
 ---
 

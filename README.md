@@ -23,6 +23,7 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 - Linux y arquitecturas de computadores
 - Sistemas Operativos y programación concurrente
 
+---
 
 🎓 **Educación:**
 

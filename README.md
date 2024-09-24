@@ -11,15 +11,13 @@
 Soy un estudiante apasionado por la tecnología y la informática, actualmente cursando Ingeniería Informática con especialización en Ingeniería de Computadores en la UCLM. Desde pequeño he sentido un profundo interés por los ordenadores, lo que me ha llevado a enfocarme en áreas como la **ciberseguridad**, **redes**, y **hardware**.
 
 ---
+🔧 **Habilidades que estoy aprendiendo:**
 
-Aquí te presento cómo podría verse:
-🔧 Habilidades que estoy aprendiendo:
-
-🟦 Diseño y gestión de redes	🟩 Desarrollo de software
-🟨 Bases de datos	🟪 Auditorías de seguridad
-🟧 Programación:	🟥 Análisis forense
-  Java, C, Risc-V, Python, MatLab	🟫 Linux y arquitecturas de computadores
-🟠 Sistemas Operativos	y programación concurrente
+🟦 Diseño y gestión de redes	                🟩 Desarrollo de software
+🟨 Bases de datos	                           🟪 Auditorías de seguridad
+🟧 Programación:	                       🟥 Análisis forense
+  Java, C, Risc-V, Python, MatLab	
+🟫 Linux y arquitecturas de computadores              🟠 Sistemas Operativos	y programación concurrente
 
 ---
 

@@ -46,8 +46,10 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 
 📌 **Proyectos Destacados:**
 
+- **Juego Sokoban IA (2024):** Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.
+- **Servicio para Sistemas Distribuidos (2024):** implementado en python con ZeroC Ice y Confluent Kafka.
 - **Tienda Online (2022):** Diseño y desarrollo de una tienda en línea para una pequeña empresa tradicional, implementando la gestión de bases de datos y facilitando la recepción de pedidos a nivel nacional.
-
+- 
 ---
 
 💡 **Intereses:**

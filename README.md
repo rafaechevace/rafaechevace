@@ -46,8 +46,6 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 
 🌟 **Proyectos Destacados:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/rafaechevace/Visualizacion_Grupos_Investigacion)
-
 #### 🎮 **Juego Sokoban IA (2024):**
 Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.
 
@@ -59,10 +57,6 @@ Basado en cálculo y teoría de grafos para modelar la tasa de contagio, inciden
 
 #### 📊 **Creación y visualización de grupos de investigación (2023):**
 Introduciendo una base de datos de investigadores, permite crear relaciones entre personas y obtener los distintos grupos de investigación así como las relaciones entre ellos. (Ej: UCLM)
-
-</div>
-
-</div>
 
 ---
 

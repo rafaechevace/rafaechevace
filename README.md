@@ -27,17 +27,17 @@ Soy un estudiante apasionado por la tecnología y la informática, actualmente c
 
 🌟 **Proyectos Destacados:**
 
-#### 🎮 **Juego Sokoban IA (2024):**
-Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.
-
-#### 🖧 **Servicio para Sistemas Distribuidos (2024):**
-Implementado en Python con ZeroC Ice y Confluent Kafka.
-
 #### 🦠 **Modelado epidemiológico (2022):**
 Basado en cálculo y teoría de grafos para modelar la tasa de contagio, incidencia, recuperación y fallecimiento de una población. (Ej: Sars-Cov-2)
 
 #### 📊 **Creación y visualización de grupos de investigación (2023):**
 Introduciendo una base de datos de investigadores, permite crear relaciones entre personas y obtener los distintos grupos de investigación así como las relaciones entre ellos. (Ej: UCLM)
+
+#### 🎮 **Juego Sokoban IA (2024):**
+Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.
+
+#### 🖧 **Servicio para Sistemas Distribuidos (2024):**
+Implementado en Python con ZeroC Ice y Confluent Kafka.
 
 ---
 

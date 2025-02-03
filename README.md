@@ -34,10 +34,10 @@ Basado en cálculo y teoría de grafos para modelar la tasa de contagio, inciden
 Introduciendo una base de datos de investigadores, permite crear relaciones entre personas y obtener los distintos grupos de investigación así como las relaciones entre ellos. (Ej: UCLM)
 
 #### 🎮 **Juego Sokoban IA (2024):**
-Implementación del juego automatizado mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles.
+Implementación del juego automatizado en Python mediante un agente inteligente (IA) para obtener el mejor resultado posible en todos los niveles. Posibilidad de elegir entre disintos algorítmos de búsqueda.
 
 #### 🖧 **Servicio para Sistemas Distribuidos (2024):**
-Implementado en Python con ZeroC Ice y Confluent Kafka.
+Implementado en Python con ZeroC Ice y Confluent Kafka. Un Productor puede enviar notificaciones a un consumidor a traves de un cliente gracias a confluent kafka, este cliente se comunica con el servidor mediante una factory usando ZeroC Ice. 
 
 ---
 
